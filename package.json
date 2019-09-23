@@ -42,7 +42,7 @@
     "haraka-plugin-asn"     : "*",
     "haraka-plugin-auth-ldap": "*",
     "haraka-plugin-dcc"     : "*",
-    "haraka-plugin-elasticsearch" : "*",
+    "haraka-plugin-elasticsearch" : "1.0.3",
     "haraka-plugin-fcrdns"  : "*",
     "haraka-plugin-graph"   : "*",
     "haraka-plugin-geoip"   : "*",
